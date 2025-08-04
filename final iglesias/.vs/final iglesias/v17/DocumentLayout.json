@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmprenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmprenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmnuevaventa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmnuevaventa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmmodificarventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmmodificarventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmmodificarprenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmmodificarprenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmmodificarmarcas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmmodificarmarcas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmmodificarformapago.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmmodificarformapago.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmmodificarcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmmodificarcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmmarcas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmmarcas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frminformes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frminformes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmimprimirventasfecha.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmimprimirventasfecha.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmimprimirprendarango.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmimprimirprendarango.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmimprimirlistaprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmimprimirlistaprecios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmformapagos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmformapagos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmeliminarventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmeliminarventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmcodcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmcodcliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmbajaprenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmbajaprenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmbajamarcas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmbajamarcas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmbajamarcas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmbajamarcas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmbajaformapago.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmbajaformapago.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmbajaformapago.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmbajaformapago.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmbajaclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmbajaclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmaumentomarca.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmaumentomarca.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmaltaprenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmaltaprenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmaltamarcas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmaltamarcas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmaltaformapago.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmaltaformapago.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmaltacliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmaltacliente.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|d:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmagregarproductoventa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8E60051F-BD48-4F90-AF8C-3763CE49C519}|final iglesias\\final iglesias.vbproj|solutionrelative:final iglesias\\frmagregarproductoventa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmVentas.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmVentas.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmVentas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:21:24.358Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrenda.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmPrenda.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmPrenda.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmPrenda.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmPrenda.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:21:17.99Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmNuevaVenta.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmNuevaVenta.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmNuevaVenta.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmNuevaVenta.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmNuevaVenta.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:21:11.06Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmModificarVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmModificarVentas.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmModificarVentas.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmModificarVentas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmModificarVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:21:04.478Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmModificarPrenda.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmModificarPrenda.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmModificarPrenda.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmModificarPrenda.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmModificarPrenda.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:20:58.133Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmModificarMarcas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmModificarMarcas.vb",
+              "RelativeDocumentMoniker": "final iglesias\\frmModificarMarcas.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmModificarMarcas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\frmModificarMarcas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:20:51.326Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmModificarFormaPago.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmModificarFormaPago.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmModificarFormaPago.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmModificarFormaPago.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmModificarFormaPago.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:20:42.847Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmModificarCliente.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmModificarCliente.vb",
+              "RelativeDocumentMoniker": "final iglesias\\frmModificarCliente.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmModificarCliente.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\frmModificarCliente.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:20:34.074Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMarcas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmMarcas.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmMarcas.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmMarcas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmMarcas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:20:26.345Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmMain.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmMain.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmMain.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmMain.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:20:17.19Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmInformes.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmInformes.vb",
+              "RelativeDocumentMoniker": "final iglesias\\frmInformes.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmInformes.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\frmInformes.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:20:08.423Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmImprimirVentasFecha.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmImprimirVentasFecha.vb",
+              "RelativeDocumentMoniker": "final iglesias\\frmImprimirVentasFecha.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmImprimirVentasFecha.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\frmImprimirVentasFecha.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:19:59.256Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmImprimirPrendaRango.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmImprimirPrendaRango.vb",
+              "RelativeDocumentMoniker": "final iglesias\\frmImprimirPrendaRango.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmImprimirPrendaRango.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\frmImprimirPrendaRango.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:19:50.726Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmImprimirListaPrecios.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmImprimirListaPrecios.vb",
+              "RelativeDocumentMoniker": "final iglesias\\frmImprimirListaPrecios.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmImprimirListaPrecios.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\frmImprimirListaPrecios.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:19:39.932Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmFormaPagos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmFormaPagos.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmFormaPagos.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmFormaPagos.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmFormaPagos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:19:31.074Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmEliminarVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmEliminarVentas.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmEliminarVentas.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmEliminarVentas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmEliminarVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:19:17.506Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmCodCliente.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmCodCliente.vb",
+              "RelativeDocumentMoniker": "final iglesias\\frmCodCliente.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmCodCliente.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\frmCodCliente.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:19:06.821Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmClientes.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmClientes.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmClientes.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmClientes.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmClientes.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:18:54.367Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmBajaPrenda.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmBajaPrenda.vb",
+              "RelativeDocumentMoniker": "final iglesias\\frmBajaPrenda.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\frmBajaPrenda.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\frmBajaPrenda.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:18:37.948Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmBajaMarcas.vb",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmBajaMarcas.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmBajaMarcas.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmBajaMarcas.vb",
+              "RelativeToolTip": "final iglesias\\FrmBajaMarcas.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:18:36.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmBajaFormaPago.vb",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmBajaFormaPago.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmBajaFormaPago.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmBajaFormaPago.vb",
+              "RelativeToolTip": "final iglesias\\FrmBajaFormaPago.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:18:31.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmBajaMarcas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmBajaMarcas.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmBajaMarcas.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmBajaMarcas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmBajaMarcas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:18:23.412Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmBajaFormaPago.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmBajaFormaPago.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmBajaFormaPago.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmBajaFormaPago.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmBajaFormaPago.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:18:16.123Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmBajaclientes.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmBajaclientes.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmBajaclientes.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmBajaclientes.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmBajaclientes.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:18:06.89Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmAumentoMarca.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAumentoMarca.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmAumentoMarca.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAumentoMarca.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmAumentoMarca.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:17:57.13Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmAltaPrenda.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAltaPrenda.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmAltaPrenda.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAltaPrenda.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmAltaPrenda.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:17:50.239Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmAltaMarcas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAltaMarcas.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmAltaMarcas.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAltaMarcas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmAltaMarcas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:17:42.065Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmAltaFormaPago.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAltaFormaPago.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmAltaFormaPago.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAltaFormaPago.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmAltaFormaPago.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:17:34.605Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmAltaCliente.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAltaCliente.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmAltaCliente.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAltaCliente.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmAltaCliente.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:17:25.293Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmAgregarProductoVenta.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAgregarProductoVenta.vb",
+              "RelativeDocumentMoniker": "final iglesias\\FrmAgregarProductoVenta.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\FrmAgregarProductoVenta.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\FrmAgregarProductoVenta.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:16:53.009Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Frmlogin.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\Frmlogin.vb",
+              "RelativeDocumentMoniker": "final iglesias\\Frmlogin.vb",
+              "ToolTip": "D:\\cosas facu franco\\final mauri programacion 1\\final iglesias\\final iglesias\\Frmlogin.vb [Dise\u00F1o]",
+              "RelativeToolTip": "final iglesias\\Frmlogin.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-24T10:12:46.656Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

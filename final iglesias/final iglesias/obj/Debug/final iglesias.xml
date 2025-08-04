@@ -1,0 +1,361 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+final iglesias
+</name>
+</assembly>
+<members>
+<member name="T:final_iglesias.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:final_iglesias.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:final_iglesias.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:final_iglesias.My.Resources.Resources.imagen_tienda">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.detalleventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.formaspagoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.marcasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.prendasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.usuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.ventasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_VerDetalleVentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ListaPreciosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ReporteListaPreciosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ReporteVentasPorFechaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ReporteVentasPorPrendaYRangoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.SP_MostrarVentasPorClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ListarVentasConDatosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.detalleventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.formaspagoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.marcasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.prendasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.usuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.ventasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_VerDetalleVentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ListaPreciosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ReporteListaPreciosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ReporteVentasPorFechaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ReporteVentasPorPrendaYRangoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.SP_MostrarVentasPorClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ListarVentasConDatosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.detalleventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.formaspagoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.marcasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.prendasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.usuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.ventasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_VerDetalleVentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ListaPreciosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ReporteListaPreciosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ReporteVentasPorFechaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ReporteVentasPorPrendaYRangoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.SP_MostrarVentasPorClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSet.sp_ListarVentasConDatosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.clientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.detalleventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.formaspagoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.marcasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.prendasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.usuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.ventasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.sp_VerDetalleVentaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.sp_ListaPreciosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.sp_ReporteListaPreciosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.sp_ReporteVentasPorFechaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.sp_ReporteVentasPorPrendaYRangoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.SP_MostrarVentasPorClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.sp_ListarVentasConDatosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:final_iglesias.FINALDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(final_iglesias.FINALDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:final_iglesias.FINALDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(final_iglesias.FINALDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:final_iglesias.FINALDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(final_iglesias.FINALDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:final_iglesias.FINALDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:final_iglesias.FINALDataSetTableAdapters.TableAdapterManager.UpdateAll(final_iglesias.FINALDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:final_iglesias.FINALDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

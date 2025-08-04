@@ -1,0 +1,96 @@
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\final iglesias.exe.config
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\final iglesias.exe
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\final iglesias.pdb
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\final iglesias.xml
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final iglesias.vbproj.AssemblyReference.cache
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.Form1.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.Frmlogin.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.Resources.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final iglesias.vbproj.GenerateResource.cache
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final iglesias.vbproj.CoreCompileInputs.cache
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final iglesias.exe
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final iglesias.xml
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final iglesias.pdb
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final iglesias.exe.config
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmMain.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmPrenda.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.frmAltaPrenda.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmAltaFormaPago.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmClientes.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmFormaPagos.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmMarcas.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmAltaCliente.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmAltaMarcas.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmBajaclientes.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmBajaMarcas.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmBajaFormaPago.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.frmBajaPrenda.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmModificarPrenda.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.frmModificarCliente.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmModificarFormaPago.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.frmModificarMarcas.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmAgregarProductoVenta.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmNuevaVenta.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmVentas.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmEliminarVentas.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmModificarVentas.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.FrmAumentoMarca.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\EnvDTE.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.frmImprimirListaPrecios.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final ig.8E553A74.Up2Date
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.frmImprimirVentasFecha.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.frmInformes.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\rptVentasPorFecha.rdlc
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.frmImprimirPrendaRango.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\obj\Debug\final_iglesias.frmCodCliente.resources
+D:\cosas facu franco\final mauri programacion 1\final iglesias\final iglesias\bin\Debug\rptVentasPrendaFecha.rdlc
